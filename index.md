@@ -2,4 +2,4 @@
 
 **Foco em Virtual Reality e Augmented Reality**
 
-[![](https://github.com/rpassareti/rpassareti.github.io/blob/master/bts/bt_curriculo.png)] (www.google.com)
+![www.google.com)](https://github.com/rpassareti/rpassareti.github.io/blob/master/bts/bt_curriculo.png)
