@@ -4,5 +4,5 @@
 
 **Foco em Virtual Reality e Augmented Reality**
 
-[![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_curriculo_128.png)](another-page)  [![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_projetos_128.png)](another-page)
+[![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_curriculo_128.png)](another-page)      [![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_projetos_128.png)](another-page)
 
