@@ -20,10 +20,14 @@ O projeto desenvolvido para UFOP foi adaptado também para ser uma expêriencia 
 
 ### [](#header-4)_Freelancer_
 
-*   **Projeto House System**
+*   **Projeto House System - 2015**
 
-Passeio virtual em uma casa com o uso do Oculus Rift, de realidade virtual imersiva e interativa desenvolvido na Unreal 4.
+Passeio virtual em uma casa com o uso do Oculus Rift desenvolvido na Unreal 4.
 
-*   **Os três Porquinhos RA Digital**
+*   **Projeto Realidade Aumentada Perfume - 2016**
 
-Projeto de Realidade Aumentada de livro infantil desenvolvido na Unity.
+Projeto de Realidade Aumentada para marca de Perfume. Desenvolvido na Unity. Projeto cancelado pela empresa de perfume.
+
+*   **Os três Porquinhos RA Digital - 2016**
+
+Projeto de Realidade Aumentada para livro infantil. Desenvolvido na Unity
