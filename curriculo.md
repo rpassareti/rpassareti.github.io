@@ -36,7 +36,7 @@ Projeto de Realidade Aumentada para livro infantil. Desenvolvido na Unity
 
 ## [](#header-2)Formação
 
-### [](#header-4)_Universidade Anhembi Morumbi - Design de game
+### [](#header-4)_Universidade Anhembi Morumbi - Design de game_
 
 * 2010 - Formado
  
@@ -46,4 +46,4 @@ Conhecimento básico em Flash (AS 3.0)
 Conhecimento de funcionalidade de modelagem 3D para jogos.
 
 
-[Currículo](curriculo.pdf)
+* [Currículo](curriculo.pdf)
