@@ -41,8 +41,11 @@ Projeto de Realidade Aumentada para livro infantil. Desenvolvido na Unity
 * 2010 - Formado
  
 Curso de Design voltado para desenvolvimento de games. Inicio do curso em 2010 e termino no final de 2014.
+
 Foco em programação C# com uso da Engine Unity.
+
 Conhecimento básico em Flash (AS 3.0)
+
 Conhecimento de funcionalidade de modelagem 3D para jogos.
 
 
