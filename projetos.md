@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 17
+### [](#header-3)L.I.P.E. TESTE 18
 
 
 <html>
@@ -20,7 +20,7 @@
             <a href="Imgs/LipePhoto/lipe1.png" title="Banana" data-description="This is a banana.">Banana</a>
             <a href="Imgs/LipePhoto/lipe2.png" title="Apple" data-description="This is an apple.">Apple</a>
         </div>
-        
+        <script>
         blueimp.Gallery(
         document.getElementById('links'),
         {
@@ -36,7 +36,7 @@
             }
         }
         );
-        
+        </script>
         <script src="js/blueimp-gallery.min.js"></script>
 
     </body>
