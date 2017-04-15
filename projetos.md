@@ -1,37 +1,21 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 1
-
+### [](#header-3)L.I.P.E. TESTE 2
 
 
 <html>
 <body>
-<link rel="stylesheet" href="css/blueimp-gallery.min.js">
-
+<link rel="stylesheet" href="css/blueimp-gallery.js">
 
 
 <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
     <div class="slides"></div>
     <h3 class="A"></h3>
-    <div id="links">
-    <a href="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" title="Lipe 1">
-        <img src="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" alt="Lipe 1">
-    </a>
-    <a href="Imgs/LipePhoto/lipe2.png" title="Lipe 2">
-        <img src="Imgs/LipePhoto/lipe2.png" alt="Lipe 2">
-    </a>
-    <a href="Imgs/lipe3.png" title="Lipe 3">
-        <img src="Imgs/lipe3.png" alt="Lipe 3">
-    </a>
-</div>
     <a class="prev">‹</a>
     <a class="next">›</a>
     <a class="play-pause"></a>
     <ol class="indicator"></ol>
 </div>
-
-
-
 <script>blueimp.Gallery(
     document.getElementById('links').getElementsByTagName('a'),
     {
@@ -44,6 +28,6 @@
 
 
 
-<script src="js/blueimp-gallery.min.js"></script>
+<script src="js/blueimp-gallery.js"></script>
 </body>
 </html>
