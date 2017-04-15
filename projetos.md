@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 9
+### [](#header-3)L.I.P.E. TESTE 10
 
 
 <html>
@@ -35,16 +35,6 @@
         <script src="js/blueimp-gallery-youtube.js"></script>
         <script src="js/vendor/jquery.js"></script>
         <script src="js/jquery.blueimp-gallery.js"></script>
-        
-        <script>
-            blueimp.Gallery(
-                document.getElementById('links').getElementsByTagName('a'),
-                {
-                    container: '#blueimp-gallery-carousel',
-                    carousel: true
-                }
-            );
-        </script>
 
     </body>
 </html>
