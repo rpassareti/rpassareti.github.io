@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 32
+### [](#header-3)L.I.P.E. TESTE 33
 ![](fotos/lipe/banner.jpg)
 <html>
     <head>
@@ -9,7 +9,7 @@
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links">
-        <a href="fotos/lipe/cena1.png"></a> <a href="fotos/lipe/cena2.png"></a><a href="fotos/lipe/cena3.png"></a> <a href="fotos/lipe/cena4.png"></a> <a href="fotos/lipe/cena5.png"></a> <a href="fotos/lipe/cena6.png"></a> <a href="fotos/terror/PRINT01.jpg">
+        <a href="fotos/lipe/cena1.png"></a> <a href="fotos/lipe/cena2.png"></a><a href="fotos/lipe/cena3.png"></a> <a href="fotos/lipe/cena4.png"></a> <a href="fotos/lipe/cena5.png"></a> <a href="fotos/lipe/cena6.png"></a> <a href="fotos/terror/PRINT01.jpg"></a>
         </div>   
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -48,7 +48,7 @@ Curta a pagina no face, clicando [AQUI](https://www.facebook.com/gamelipe).
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links">
-        <a href="fotos/terror/PRINT01.jpg"></a> <a href="fotos/terror/PRINT02.jpg"></a><a href="fotos/terror/PRINT03.jpg"></a> <a href="fotos/terror/PRINT04.png"></a> <a href="fotos/terror/PRINT05.jpg"></a> <a href="fotos/terror/PRINT06.jpg"></a>
+        <a href="fotos/terror/PRINT01.jpg"></a> <a href="fotos/terror/PRINT02.jpg"></a> <a href="fotos/terror/PRINT03.jpg"></a> <a href="fotos/terror/PRINT04.png"></a> <a href="fotos/terror/PRINT05.jpg"></a> <a href="fotos/terror/PRINT06.jpg"></a>
         </div>   
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
