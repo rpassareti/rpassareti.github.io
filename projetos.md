@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 21
+### [](#header-3)L.I.P.E. TESTE 22
 
 
 <html>
@@ -13,8 +13,7 @@
             <a href="Imgs/LipePhoto/lipe2.png" title="Adwadwa">TESTE2</a>
         </div>
         
-        <div 
-            id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+        <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
             <div class="slides"></div>
             <h3 class="title"></h3>
             <a class="prev">‹</a>
