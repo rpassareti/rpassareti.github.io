@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 11
+### [](#header-3)L.I.P.E. TESTE 12
 
 
 <html>
@@ -28,6 +28,15 @@
             <a class="next">›</a>
             <a class="play-pause"></a>
         </div>
+        <script>
+            blueimp.Gallery(
+                document.getElementById('links').getElementsByTagName('a'),
+                {
+                    container: '#blueimp-gallery-carousel',
+                    carousel: true
+                }
+            );
+        </script>
         
         <script src="js/blueimp-helper.js"></script>
         <script src="js/blueimp-gallery.js"></script>
