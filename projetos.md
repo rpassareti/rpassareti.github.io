@@ -1,7 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 28
-[](fotos/lipe/banner.jpg) 
+### [](#header-3)L.I.P.E. TESTE 29
 <html>
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.min.css">
