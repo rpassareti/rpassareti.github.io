@@ -7,8 +7,7 @@
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.css">
         <link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
-        <link rel="stylesheet" href="css/blueimp-gallery-video.css">
-        <link rel="stylesheet" href="css/demo/demo.css"> <!-- Stylesheet -->
+        <link rel="stylesheet" href="css/blueimp-gallery-video.css"><!-- Stylesheet -->
     </head>
     <body>
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel">
@@ -37,6 +36,6 @@
         <script src="js/blueimp-gallery-youtube.js"></script>
         <script src="js/vendor/jquery.js"></script>
         <script src="js/jquery.blueimp-gallery.js"></script>
-        <script src="js/demo/demo.js"></script>
+
     </body>
 </html>
