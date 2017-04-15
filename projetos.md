@@ -5,6 +5,7 @@
 
 
 <html>
+<body>
 <link rel="stylesheet" href="css/blueimp-gallery.min.js">
 <!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
 <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
@@ -42,5 +43,5 @@ blueimp.Gallery(
 
 
 <script src="js/blueimp-gallery.min.js"></script>
-
+</body>
 </html>
