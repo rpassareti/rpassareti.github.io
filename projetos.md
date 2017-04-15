@@ -1,12 +1,11 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 25
+### [](#header-3)L.I.P.E. TESTE 26
 
 
 <html>
     <head>
-        <link rel="stylesheet" href="css/blueimp-gallery.css">
-        <link rel="stylesheet" href="css/demo/demo.css">
+        <link rel="stylesheet" href="css/blueimp-gallery.min.css">
     </head>
     <body>  
         <div id="links">
@@ -33,11 +32,6 @@
             );
         </script>
         
-        <script src="js/blueimp-helper.js"></script>
-        <script src="js/blueimp-gallery.js"></script>
-        <script src="js/blueimp-gallery-indicator.js"></script>
-        <script src="js/vendor/jquery.js"></script>
-        <script src="js/jquery.blueimp-gallery.js"></script>
-        <script src="js/demo/demo.js"></script>
+    <script src="js/blueimp-gallery.min.js"></script>
     </body>
 </html>
