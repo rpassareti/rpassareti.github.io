@@ -1,11 +1,14 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 22
+### [](#header-3)L.I.P.E. TESTE 23
 
 
 <html>
     <head>
-        <link rel="stylesheet" href="css/blueimp-gallery.min.css"><!-- Stylesheet -->
+        <link rel="stylesheet" href="css/blueimp-gallery.css">
+        <link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
+        <link rel="stylesheet" href="css/blueimp-gallery-video.css">
+        <link rel="stylesheet" href="css/demo/demo.css">
     </head>
     <body>  
         <div id="links">
@@ -32,6 +35,15 @@
             );
         </script>
         
-        <script src="js/blueimp-gallery.min.js"></script>
+        <script src="js/blueimp-helper.js"></script>
+        <script src="js/blueimp-gallery.js"></script>
+        <script src="js/blueimp-gallery-fullscreen.js"></script>
+        <script src="js/blueimp-gallery-indicator.js"></script>
+        <script src="js/blueimp-gallery-video.js"></script>
+        <script src="js/blueimp-gallery-vimeo.js"></script>
+        <script src="js/blueimp-gallery-youtube.js"></script>
+        <script src="js/vendor/jquery.js"></script>
+        <script src="js/jquery.blueimp-gallery.js"></script>
+        <script src="js/demo/demo.js"></script>
     </body>
 </html>
