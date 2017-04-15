@@ -8,7 +8,12 @@
 <body>
 <link rel="stylesheet" href="css/blueimp-gallery.min.js">
 
-<div id="links">
+
+
+<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="A"></h3>
+    <div id="links">
     <a href="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" title="Lipe 1">
         <img src="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" alt="Lipe 1">
     </a>
@@ -19,11 +24,6 @@
         <img src="Imgs/lipe3.png" alt="Lipe 3">
     </a>
 </div>
-
-<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
-<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
     <a class="prev">‹</a>
     <a class="next">›</a>
     <a class="play-pause"></a>
