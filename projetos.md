@@ -9,7 +9,7 @@
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links">
-        <a href="fotos/lipe/cena1.png"></a> <a href="fotos/lipe/cena2.png"></a><a href="fotos/lipe/cena3.png"></a> <a href="fotos/lipe/cena4.png"></a> <a href="fotos/lipe/cena5.png"></a> <a href="fotos/lipe/cena6.png"></a>
+        <a href="fotos/lipe/cena1.png"></a> <a href="fotos/lipe/cena2.png"></a><a href="fotos/lipe/cena3.png"></a> <a href="fotos/lipe/cena4.png"></a> <a href="fotos/lipe/cena5.png"></a> <a href="fotos/lipe/cena6.png"></a> <a href="fotos/terror/PRINT01.jpg">
         </div>   
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
