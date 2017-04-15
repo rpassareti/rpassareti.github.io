@@ -1,13 +1,14 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 27
+### [](#header-3)L.I.P.E. TESTE 28
 
 
 <html>
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.min.css">
     </head>
-    <body>  
+    <body>
+        <script src="js/blueimp-gallery.min.js"></script>
         <div id="links">
         <a href="Imgs/LipePhoto/lipe1.png" title="Banana">TESTE</a>
             <a href="Imgs/LipePhoto/lipe2.png" title="Adwadwa">TESTE2</a>
@@ -31,7 +32,6 @@
                 }
             );
         </script>
-        
-    <script src="js/blueimp-gallery.min.js"></script>
     </body>
+    
 </html>
