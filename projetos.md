@@ -3,8 +3,9 @@
 ### [](#header-3)L.I.P.E.
 
 
-<link rel="stylesheet" href="css/blueimp-gallery.min.css">
 
+<html>
+<link rel="stylesheet" href="css/blueimp-gallery.min.css">
 <div id="blueimp-gallery" class="blueimp-gallery">
     <div class="slides"></div>
     <h3 class="title"></h3>
@@ -15,20 +16,17 @@
     <ol class="indicator"></ol>
 </div>
 
-
 <div id="links">
-    <a href="images/banana.jpg" title="Banana">
-        <img src="images/thumbnails/banana.jpg" alt="Banana">
+    <a href="Imgs/lipe1.png" title="Lipe 1">
+        <img src="Imgs/lipe1.png" alt="Lipe 2">
     </a>
-    <a href="images/apple.jpg" title="Apple">
-        <img src="images/thumbnails/apple.jpg" alt="Apple">
+    <a href="Imgs/lipe2.png" title="Lipe 2">
+        <img src="Imgs/lipe2.png" alt="Lipe 2">
     </a>
-    <a href="images/orange.jpg" title="Orange">
-        <img src="images/thumbnails/orange.jpg" alt="Orange">
+    <a href="Imgs/lipe3.png" title="Lipe 3">
+        <img src="Imgs/lipe3.png" alt="Lipe 3">
     </a>
 </div>
-
-
 
 <script>
 document.getElementById('links').onclick = function (event) {
@@ -46,3 +44,4 @@ document.getElementById('links').onclick = function (event) {
 
 <script src="js/blueimp-gallery.min.js"></script>
 
+</html>
