@@ -1,6 +1,7 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 29
+### [](#header-3)L.I.P.E. TESTE 30
+![](fotos/lipe/banner.jpg)
 <html>
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.min.css">
@@ -37,5 +38,5 @@
 </html>
 
 Trabalho final de 3º semestre da faculdade de Design de Games, com foco em desenvolvimento de jogos 2D com o uso do Flash CS5.5.
-Clique AQUI(http://www.newgrounds.com/dump/item/5e958707d6b1bda6a80e1e71889bddcb) para jogar.
-Curta a pagina no face, clicando AQUI(https://www.facebook.com/gamelipe).
+Clique [AQUI](http://www.newgrounds.com/dump/item/5e958707d6b1bda6a80e1e71889bddcb) para jogar.
+Curta a pagina no face, clicando [AQUI](https://www.facebook.com/gamelipe).
