@@ -1,24 +1,22 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 12
+### [](#header-3)L.I.P.E. TESTE 13
 
 
 <html>
     <head>
-        <link rel="stylesheet" href="css/blueimp-gallery.css">
-        <link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
-        <link rel="stylesheet" href="css/blueimp-gallery-video.css"><!-- Stylesheet -->
+        <link rel="stylesheet" href="css/blueimp-gallery.min.css"><!-- Stylesheet -->
     </head>
     <body>
         <div id="links">
             <a href="Imgs/LipePhoto/lipe1.png" title="Banana">
-            <img src="Imgs/LipePhoto/lipe1.png" alt="Banana">
+            Banana
             </a>
             <a href="Imgs/LipePhoto/lipe2.png" title="Apple">
-            <img src="Imgs/LipePhoto/lipe2.png" alt="Apple">           
+            Apple
             </a>
             <a href="Imgs/LipePhoto/lipe3.png" title="Orange">
-            <img src="Imgs/LipePhoto/lipe3.png" alt="Orange">
+            Orange
             </a>
         </div>
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel">
@@ -38,15 +36,7 @@
             );
         </script>
         
-        <script src="js/blueimp-helper.js"></script>
-        <script src="js/blueimp-gallery.js"></script>
-        <script src="js/blueimp-gallery-fullscreen.js"></script>
-        <script src="js/blueimp-gallery-indicator.js"></script>
-        <script src="js/blueimp-gallery-video.js"></script>
-        <script src="js/blueimp-gallery-vimeo.js"></script>
-        <script src="js/blueimp-gallery-youtube.js"></script>
-        <script src="js/vendor/jquery.js"></script>
-        <script src="js/jquery.blueimp-gallery.js"></script>
+        <script src="js/blueimp-gallery.min.js"></script>
 
     </body>
 </html>
