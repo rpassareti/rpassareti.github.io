@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 26
+### [](#header-3)L.I.P.E. TESTE 27
 
 
 <html>
@@ -26,7 +26,7 @@
             blueimp.Gallery(
                 document.getElementById('links').getElementsByTagName('a'),
                 {
-                    container: '#blueimp-gallery-carousel',
+                    container: '#blueimp-image-carousel',
                     carousel: true
                 }
             );
