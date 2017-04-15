@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 31
+### [](#header-3)L.I.P.E. TESTE 32
 ![](fotos/lipe/banner.jpg)
 <html>
     <head>
@@ -40,7 +40,7 @@ Curta a pagina no face, clicando [AQUI](https://www.facebook.com/gamelipe).
 * * *
 
 ### [](#header-3)T.E.R.R.O.R.
-![](fotos/TERROR/banner.jpg)
+![](fotos/terror/banner.jpg)
 <html>
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.min.css">
