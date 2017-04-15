@@ -8,10 +8,10 @@
     </head>
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
-        <div id="links">
-        <a href="fotos/lipe/cena1.png"></a> <a href="fotos/lipe/cena2.png"></a><a href="fotos/lipe/cena3.png"></a> <a href="fotos/lipe/cena4.png"></a> <a href="fotos/lipe/cena5.png"></a> <a href="fotos/lipe/cena6.png"></a> <a href="fotos/terror/PRINT01.jpg"></a>
+        <div id="lipe">
+        <a href="fotos/lipe/cena1.png"></a> <a href="fotos/lipe/cena2.png"></a><a href="fotos/lipe/cena3.png"></a> <a href="fotos/lipe/cena4.png"></a> <a href="fotos/lipe/cena5.png"></a> <a href="fotos/lipe/cena6.png"></a>
         </div>   
-        <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
+        <div id="blueimp-image-carousel-lipe" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
             <h3 class="title"></h3>
             <a class="prev">‹</a>
@@ -21,7 +21,7 @@
         </div>        
         <script>
             blueimp.Gallery(
-                document.getElementById('links').getElementsByTagName('a'),
+                document.getElementById('lipe').getElementsByTagName('a'),
                 {
                     container: '#blueimp-image-carousel',
                     carousel: true
@@ -62,7 +62,7 @@ Curta a pagina no face, clicando [AQUI](https://www.facebook.com/gamelipe).
             blueimp.Gallery(
                 document.getElementById('links').getElementsByTagName('a'),
                 {
-                    container: '#blueimp-image-carousel',
+                    container: '#blueimp-image-carousel-lipe',
                     carousel: true
                 }
             );
