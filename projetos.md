@@ -20,8 +20,8 @@
     <a href="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" title="Lipe 1">
         <img src="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" alt="Lipe 1">
     </a>
-    <a href="Imgs/lipe2.png" title="Lipe 2">
-        <img src="Imgs/lipe2.png" alt="Lipe 2">
+    <a href="Imgs/LipePhoto/lipe2.png" title="Lipe 2">
+        <img src="Imgs/LipePhoto/lipe2.png" alt="Lipe 2">
     </a>
     <a href="Imgs/lipe3.png" title="Lipe 3">
         <img src="Imgs/lipe3.png" alt="Lipe 3">
