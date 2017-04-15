@@ -10,8 +10,8 @@
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links">
-        <a href="Imgs/LipePhoto/lipe1.png" title="Banana">TESTE</a>
-            <a href="Imgs/LipePhoto/lipe2.png" title="Adwadwa">TESTE2</a>
+        <a href="Imgs/LipePhoto/lipe1.png" title="Banana"></a>
+            <a href="Imgs/LipePhoto/lipe2.png" title="Adwadwa"></a>
         </div>
         
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
