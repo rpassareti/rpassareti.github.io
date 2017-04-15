@@ -1,16 +1,5 @@
-<!DOCTYPE HTML>
-<!--
-/*
- * blueimp Gallery Demo
- * https://github.com/blueimp/Gallery
- *
- * Copyright 2013, Sebastian Tschan
- * https://blueimp.net
- *
- * Licensed under the MIT license:
- * https://opensource.org/licenses/MIT
- */
--->
+### [](#header-3)L.I.P.E.
+
 <html lang="en">
 <head>
 <!--[if IE]>
@@ -82,3 +71,4 @@ It features swipe, mouse and keyboard navigation, transition effects, slideshow 
 <script src="js/demo/demo.js"></script>
 </body>
 </html>
+### [](#header-3)L.I.P.E.
