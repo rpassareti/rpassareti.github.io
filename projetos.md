@@ -4,7 +4,12 @@
 
 
 <html>
-    <link rel="stylesheet" href="css/blueimp-gallery.css"> <!-- Stylesheet -->
+    <head>
+        <link rel="stylesheet" href="css/blueimp-gallery.css">
+        <link rel="stylesheet" href="css/blueimp-gallery-indicator.css">
+        <link rel="stylesheet" href="css/blueimp-gallery-video.css">
+        <link rel="stylesheet" href="css/demo/demo.css"> <!-- Stylesheet -->
+    </head>
     <body>
         <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel">
             <div class="slides"></div>
@@ -14,27 +19,24 @@
             <a class="play-pause"></a>
         </div>
         
-        <div id="links"><!-- Gallery images -->
-            <a href="Imgs/LipePhoto/lipe1.png" title="1">
-                <img src="Imgs/LipePhoto/lipe1  .png" alt="1">
+        <div id="links">
+            <a href="Imgs/LipePhoto/lipe1.png" title="Banana">
             </a>
-            <a href="Imgs/LipePhoto/lipe2.png" title="2">
-                <img src="Imgs/LipePhoto/lipe2.png" alt="2">
+            <a href="Imgs/LipePhoto/lipe2.png" title="Apple">
             </a>
-            <a href="Imgs/LipePhoto/lipe3.png" title="3">
-                <img src="Imgs/LipePhoto/lipe3.png" alt="3">
-            </a> <!-- Gallery images -->
+            <a href="Imgs/LipePhoto/lipe3.png" title="Orange">
+            </a>
         </div>
-        <script>
-            blueimp.Gallery(
-                document.getElementById('links').getElementsByTagName('a'),
-                {
-                    container: '#blueimp-gallery-carousel',
-                    carousel: true
-                }
-            );
-        </script>
         
-        <script src="js/blueimp-gallery.js"></script> <!-- Gallery script -->
+        <script src="js/blueimp-helper.js"></script>
+        <script src="js/blueimp-gallery.js"></script>
+        <script src="js/blueimp-gallery-fullscreen.js"></script>
+        <script src="js/blueimp-gallery-indicator.js"></script>
+        <script src="js/blueimp-gallery-video.js"></script>
+        <script src="js/blueimp-gallery-vimeo.js"></script>
+        <script src="js/blueimp-gallery-youtube.js"></script>
+        <script src="js/vendor/jquery.js"></script>
+        <script src="js/jquery.blueimp-gallery.js"></script>
+        <script src="js/demo/demo.js"></script>
     </body>
 </html>
