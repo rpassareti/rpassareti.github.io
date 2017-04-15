@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 19
+### [](#header-3)L.I.P.E. TESTE 20
 
 
 <html>
@@ -9,9 +9,10 @@
     </head>
     <body>  
         <div id="links">
-            <a href="Imgs/LipePhoto/lipe1.png" title="Banana">
-            <a href="Imgs/LipePhoto/lipe2.png" title="Adwadwa">
+            <a href="Imgs/LipePhoto/lipe1.png" title="Banana" />
+            <a href="Imgs/LipePhoto/lipe2.png" title="Adwadwa" />
         </div>
+        
         <div 
             id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
             <div class="slides"></div>
