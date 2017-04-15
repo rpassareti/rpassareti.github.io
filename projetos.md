@@ -5,7 +5,7 @@
 
 
 <html>
-<link rel="stylesheet" href="css/blueimp-gallery.css">
+<link rel="stylesheet" href="css/blueimp-gallery.min.js">
 <!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
 <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
     <div class="slides"></div>
@@ -17,8 +17,8 @@
 </div>
 
 <div id="links">
-    <a href="Imgs/lipe1.png" title="Lipe 1">
-        <img src="Imgs/lipe1.png" alt="Lipe 1">
+    <a href="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" title="Lipe 1">
+        <img src="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" alt="Lipe 1">
     </a>
     <a href="Imgs/lipe2.png" title="Lipe 2">
         <img src="Imgs/lipe2.png" alt="Lipe 2">
