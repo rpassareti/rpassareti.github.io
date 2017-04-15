@@ -7,15 +7,6 @@
 <html>
 <body>
 <link rel="stylesheet" href="css/blueimp-gallery.min.js">
-<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
-<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-</div>
 
 <div id="links">
     <a href="https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/Imgs/LipePhoto/lipe1.png" title="Lipe 1">
@@ -29,8 +20,19 @@
     </a>
 </div>
 
-<script>
-blueimp.Gallery(
+<!-- The Gallery as inline carousel, can be positioned anywhere on the page -->
+<div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+    <ol class="indicator"></ol>
+</div>
+
+
+
+<script>blueimp.Gallery(
     document.getElementById('links').getElementsByTagName('a'),
     {
         container: '#blueimp-gallery-carousel',
