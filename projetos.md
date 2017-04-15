@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 5
+### [](#header-3)L.I.P.E. TESTE 6
 
 
 <html>
@@ -15,14 +15,14 @@
         </div>
         
         <div id="links"><!-- Gallery images -->
-            <a href="Imgs/LipePhoto/lipe1.png" title="Banana">
-                <img src="Imgs/LipePhoto/lipe1  .png" alt="Banana">
+            <a href="Imgs/LipePhoto/lipe1.png" title="1">
+                <img src="Imgs/LipePhoto/lipe1  .png" alt="1">
             </a>
-            <a href="Imgs/LipePhoto/lipe2.png" title="Apple">
-                <img src="Imgs/LipePhoto/lipe2.png" alt="Apple">
+            <a href="Imgs/LipePhoto/lipe2.png" title="2">
+                <img src="Imgs/LipePhoto/lipe2.png" alt="2">
             </a>
-            <a href="Imgs/LipePhoto/lipe3.png" title="Orange">
-                <img src="Imgs/LipePhoto/lipe3.png" alt="Orange">
+            <a href="Imgs/LipePhoto/lipe3.png" title="3">
+                <img src="Imgs/LipePhoto/lipe3.png" alt="3">
             </a> <!-- Gallery images -->
         </div>
         <script>
@@ -35,6 +35,6 @@
             );
         </script>
         
-        <script src="js/blueimp-gallery.min.js"></script> <!-- Gallery script -->
+        <script src="js/blueimp-gallery.js"></script> <!-- Gallery script -->
     </body>
 </html>
