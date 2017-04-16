@@ -23,7 +23,7 @@
             blueimp.Gallery(
                 document.getElementById('lipe').getElementsByTagName('a'),
                 {
-                    container: '#blueimp-image-carousel',
+                    container: '#blueimp-image-carousel-lipe',
                     carousel: true
                 }
             );
