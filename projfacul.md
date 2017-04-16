@@ -77,3 +77,6 @@ Link para download, clique [AQUI](http://www.mediafire.com/download/u6q333jyj1wj
 Trailer do jogo, cliquei [AQUI](https://www.youtube.com/watch?v=A_Z55b4Bvp4).
 
 Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/lendadekoru).
+
+
+[Voltar](./)
