@@ -7,3 +7,10 @@
 [![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_curriculo_128.png)](curriculo)      [![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_projetosfacul_128.png)](projfacul)
 [![](https://raw.githubusercontent.com/rpassareti/rpassareti.github.io/master/bts/bt_projetospubl_128.png)](projpubl)
 
+* * *
+
+# [](#header-2)Contato 
+
+Skype: Ronaldo Passareti
+Email: ronaldo.passareti@outlook.com
+Telefone: +55 11 9 7223 - 3878
