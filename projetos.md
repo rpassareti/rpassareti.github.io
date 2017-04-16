@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 33
+### [](#header-3)L.I.P.E. TESTE 34
 ![](fotos/lipe/banner.jpg)
 <html>
     <head>
@@ -31,11 +31,11 @@
     </body>   
 </html>
 
-Trabalho final de 3º semestre da faculdade de Design de Games, com foco em desenvolvimento de jogos 2D com o uso do Flash CS5.5.
+Trabalho final de 3º semestre da faculdade de Design de Games, com foco em desenvolvimento de jogos 2D com o uso do Flash CS 5.5.
 
 Clique [AQUI](http://www.newgrounds.com/dump/item/5e958707d6b1bda6a80e1e71889bddcb) para jogar.
 
-Curta a pagina no face, clicando [AQUI](https://www.facebook.com/gamelipe).
+Curta a pagina no facebook, clicando [AQUI](https://www.facebook.com/gamelipe).
 
 * * *
 
@@ -73,6 +73,6 @@ Primeiro projeto utilizando a engine UNITY e modelagem 3D. O intuito era fazer c
 
 Clique [AQUI](http://www.mediafire.com/download/9k2yy71wp4svvu0/T.E.R.R.O.R_v1.1.rar) para baixar o jogo.
 
-Um youtuber fez um video também, se quiser assistir, clique [AQUI](http://www.youtube.com/watch?v=2QmnALqEPco&feature=g-all).
+Um canal no youtube fez um video do jogo, clique [AQUI](http://www.youtube.com/watch?v=2QmnALqEPco&feature=g-all) para assistir.
 
 Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/terrorthegame).
