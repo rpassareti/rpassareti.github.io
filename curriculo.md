@@ -51,4 +51,6 @@ Conhecimento de funcionalidade de modelagem 3D para jogos.
 
 * [Currículo](curriculo.pdf)
 
+* * *
+
 [Voltar](./)
