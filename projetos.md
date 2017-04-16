@@ -76,3 +76,43 @@ Clique [AQUI](http://www.mediafire.com/download/9k2yy71wp4svvu0/T.E.R.R.O.R_v1.1
 Um canal no youtube fez um video do jogo, clique [AQUI](http://www.youtube.com/watch?v=2QmnALqEPco&feature=g-all) para assistir.
 
 Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/terrorthegame).
+
+* * *
+
+### [](#header-3)MEMORYA
+![](fotos/memorya/banner.jpg)
+<html>
+    <head>
+        <link rel="stylesheet" href="css/blueimp-gallery.min.css">
+    </head>
+    <body>
+        <script src="js/blueimp-gallery.min.js"></script>
+        <div id="links-memorya">
+        <a href="fotos/memorya/01.png"></a> <a href="fotos/memorya/02.png"></a> <a href="fotos/memorya/03.png"></a> <a href="fotos/memorya/04.png"></a> <a href="fotos/memorya/05.png"></a> <a href="fotos/memorya/06.png"></a>
+        </div>   
+        <div id="blueimp-image-carousel-memorya" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
+            <div class="slides"></div>
+            <h3 class="title"></h3>
+            <a class="prev">‹</a>
+            <a class="next">›</a>
+            <a class="play-pause"></a>
+            <ol class="indicator"></ol>
+        </div>        
+        <script>
+            blueimp.Gallery(
+                document.getElementById('links-memorya').getElementsByTagName('a'),
+                {
+                    container: '#blueimp-image-carousel-memorya',
+                    carousel: true
+                }
+            );
+        </script>
+    </body>   
+</html>
+Jogo com o intuito de utilizar animações 3D e inteligencia artificial. Baseado no filme Eternal Sunshine of the Spotless Mind, o jogador deverá recolher as memorias de Clem (Clementine no filme) para não esquecer de Joel, seu namorado.
+
+Link para download, clique [AQUI](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar).
+
+Trailer do jogo, cliquei [AQUI](https://www.youtube.com/watch?v=nOR7zG8LKfY).
+
+Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/memoryagame).
