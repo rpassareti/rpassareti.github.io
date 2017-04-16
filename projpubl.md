@@ -72,3 +72,42 @@ Hoje em dia: [LINK](http://entretenimento.r7.com/hoje-em-dia/videos/ator-fabio-v
 Criado e desenvolvido pela empresa 8E7 Mídias Interativas para ser um passeio virtual em uma casa com o uso do Oculus Rift, de realidade virtual imersiva e interativa.
 
 Produzido na Unreal 4, desenvolvi a interação, shader dos objetos, aplicação de textura, iluminação, eventos que podem ser ativados pela casa, aplicação do Oculus Rift no projeto, efeitos de câmera e cenário.
+
+* * *
+
+### [](#header-3)Os três Porquinhos RA Digital
+<html>
+    <head>
+        <link rel="stylesheet" href="css/blueimp-gallery.min.css">
+    </head>
+    <body>
+        <script src="js/blueimp-gallery.min.js"></script>
+        <div id="links-porquinhos">
+        <a href="fotos/tresporquinhos/foto01.png"></a> <a href="fotos/tresporquinhos/foto02.png"></a> <a href="fotos/tresporquinhos/foto03.png"></a> <a href="fotos/tresporquinhos/foto04.png"></a>
+        </div>   
+        <div id="blueimp-image-carousel-porquinhos" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
+            <div class="slides"></div>
+            <h3 class="title"></h3>
+            <a class="prev">‹</a>
+            <a class="next">›</a>
+            <a class="play-pause"></a>
+            <ol class="indicator"></ol>
+        </div>        
+        <script>
+            blueimp.Gallery(
+                document.getElementById('links-porquinhos').getElementsByTagName('a'),
+                {
+                    container: '#blueimp-image-carousel-porquinhos',
+                    carousel: true
+                }
+            );
+        </script>
+    </body>   
+</html>
+Livro interativo em Realidade Aumentada. Produção da integração do plugin de realidade aumentada com a Unity, desenvolvimento de jogos interativos, leitura de textura em tempo real para aplicação na modelagem 3D.
+
+[Google Play](https://play.google.com/store/apps/details?id=br.com.di.os3porquinhos&hl=en)
+
+[Youtube](https://www.youtube.com/watch?v=qImPGhAQyEI)
+
+[Voltar](./)
