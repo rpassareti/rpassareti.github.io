@@ -1,17 +1,16 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)MEMORYA
-![](fotos/memorya/banner.jpg)
+### [](#header-3)Me, Myself and DIE! 
 <html>
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.min.css">
     </head>
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
-        <div id="links-memorya">
-        <a href="fotos/memorya/01.png"></a> <a href="fotos/memorya/02.png"></a> <a href="fotos/memorya/03.png"></a> <a href="fotos/memorya/04.png"></a> <a href="fotos/memorya/05.png"></a> <a href="fotos/memorya/06.png"></a>
+        <div id="links-tub">
+        <a href="fotos/tubarao/foto01.png"></a> <a href="fotos/tubarao/foto02.png"></a> <a href="fotos/tubarao/foto03.png"></a>
         </div>   
-        <div id="blueimp-image-carousel-memorya" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
+        <div id="blueimp-image-carousel-tub" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
             <h3 class="title"></h3>
             <a class="prev">‹</a>
@@ -21,37 +20,37 @@
         </div>        
         <script>
             blueimp.Gallery(
-                document.getElementById('links-memorya').getElementsByTagName('a'),
+                document.getElementById('links-tub').getElementsByTagName('a'),
                 {
-                    container: '#blueimp-image-carousel-memorya',
+                    container: '#blueimp-image-carousel-tub',
                     carousel: true
                 }
             );
         </script>
     </body>   
 </html>
-Jogo com o intuito de utilizar animações 3D e inteligencia artificial. Baseado no filme Eternal Sunshine of the Spotless Mind, o jogador deverá recolher as memorias de Clem (Clementine no filme) para não esquecer de Joel, seu namorado.
+Projeto produzido na empresa 8E7 Mídias Interativas, com o propósito de instigar a reação das pessoas que estão em um bote rodeado de tubarões.
 
-Link para download, clique [AQUI](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar).
+Foi utilizado na feira da Universidade de Ouro Preto, e depois foi usado no programa Hoje em Dia, no dia 24/02/2015. 
 
-Trailer do jogo, cliquei [AQUI](https://www.youtube.com/watch?v=nOR7zG8LKfY).
+Produzido na Unity 3D, desenvolvi a programação dos eventos dos tubarões, inteligência básica para movimentação e troca de animações dos tubarões. Efeito de câmera, aplicação do Oculus Rift no projeto, e aplicação do Kinect (que foi retirado do produto final). 
 
-Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/memoryagame).
+Universidade de ouro preto: [Youtube](https://www.youtube.com/watch?v=vobQ6OZ0gzc)
 
+Hoje em dia: [LINK](http://entretenimento.r7.com/hoje-em-dia/videos/ator-fabio-villa-verde-encara-uma-emocionante-aventura-com-o-oculos-3d-16102015)
 * * *
 
-### [](#header-3)A Lenda de Koru
-![](fotos/koru/banner.jpg)
+### [](#header-3)House System
 <html>
     <head>
         <link rel="stylesheet" href="css/blueimp-gallery.min.css">
     </head>
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
-        <div id="links-koru">
-        <a href="fotos/koru/Foto_01.png"></a> <a href="fotos/koru/Foto_02.png"></a> <a href="fotos/koru/Foto_03.png"></a> <a href="fotos/koru/Foto_04.png"></a> <a href="fotos/koru/Foto_05.png"></a> <a href="fotos/koru/Foto_06.png"></a> <a href="fotos/koru/Foto_07.png"></a> <a href="fotos/koru/Foto_08.png"></a> <a href="fotos/koru/Foto_09.png"></a>
+        <div id="links-house">
+        <a href="fotos/housesystem/foto01.png"></a> <a href="fotos/housesystem/foto02.png"></a> <a href="fotos/housesystem/foto03.png"></a> <a href="fotos/housesystem/foto04.png"></a> <a href="fotos/housesystem/foto05.png"></a> <a href="fotos/housesystem/foto06.png"></a> <a href="fotos/housesystem/foto07.png"></a> <a href="fotos/housesystem/foto08.png"></a> <a href="fotos/housesystem/foto09.png"></a>
         </div>   
-        <div id="blueimp-image-carousel-koru" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
+        <div id="blueimp-image-carousel-house" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
             <h3 class="title"></h3>
             <a class="prev">‹</a>
@@ -61,19 +60,15 @@ Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/memoryagame)
         </div>        
         <script>
             blueimp.Gallery(
-                document.getElementById('links-koru').getElementsByTagName('a'),
+                document.getElementById('links-house').getElementsByTagName('a'),
                 {
-                    container: '#blueimp-image-carousel-koru',
+                    container: '#blueimp-image-carousel-house',
                     carousel: true
                 }
             );
         </script>
     </body>   
 </html>
-Jogo criado como Trabalho de Conclusão de Curso, desenvolvido na Unity 3D. O jogador estará na pele de Marohirohi, correndo contra o tempo para encontrar ingrediantes e salvar seu irmão de uma maldição enviada pelos deuses.
+Criado e desenvolvido pela empresa 8E7 Mídias Interativas para ser um passeio virtual em uma casa com o uso do Oculus Rift, de realidade virtual imersiva e interativa.
 
-Link para download, clique [AQUI](http://www.mediafire.com/download/u6q333jyj1wjmiu/A+Lenda+de+Koru.rar), ou [AQUI](https://mega.co.nz/#!5h0zXYhY!dQpxKkqwGBOF4kJIVhLhYM1mIeArv6RKwfA4k21cazk)
-
-Trailer do jogo, cliquei [AQUI](https://www.youtube.com/watch?v=A_Z55b4Bvp4).
-
-Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/lendadekoru).
+Produzido na Unreal 4, desenvolvi a interação, shader dos objetos, aplicação de textura, iluminação, eventos que podem ser ativados pela casa, aplicação do Oculus Rift no projeto, efeitos de câmera e cenário.
