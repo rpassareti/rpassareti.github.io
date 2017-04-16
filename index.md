@@ -12,5 +12,7 @@
 # [](#header-2)Contato 
 
 Skype: Ronaldo Passareti
+
 Email: ronaldo.passareti@outlook.com
+
 Telefone: +55 11 9 7223 - 3878
