@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 37
+### [](#header-3)L.I.P.E. TESTE 37 a
 ![](fotos/lipe/banner.jpg)
 <html>
     <head>
@@ -128,7 +128,7 @@ Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/memoryagame)
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-koru">
-        <a href="fotos/koru/Foto_01.png.png"></a> <a href="fotos/koru/Foto_02.png.png"></a> <a href="fotos/koru/Foto_03.png"></a> <a href="fotos/koru/Foto_04.png"></a> <a href="fotos/koru/Foto_05.png"></a> <a href="fotos/koru/Foto_06.png"></a> <a href="fotos/koru/Foto_07.png"></a> <a href="fotos/koru/Foto_08.png"></a> <a href="fotos/koru/Foto_09.png"></a>
+        <a href="fotos/koru/Foto_01.png"></a> <a href="fotos/koru/Foto_02.png"></a> <a href="fotos/koru/Foto_03.png"></a> <a href="fotos/koru/Foto_04.png"></a> <a href="fotos/koru/Foto_05.png"></a> <a href="fotos/koru/Foto_06.png"></a> <a href="fotos/koru/Foto_07.png"></a> <a href="fotos/koru/Foto_08.png"></a> <a href="fotos/koru/Foto_09.png"></a>
         </div>   
         <div id="blueimp-image-carousel-koru" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
