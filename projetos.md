@@ -1,6 +1,6 @@
 # [](#header-1)Faculdade
 
-### [](#header-3)L.I.P.E. TESTE 35
+### [](#header-3)L.I.P.E. TESTE 36
 ![](fotos/lipe/banner.jpg)
 <html>
     <head>
@@ -47,10 +47,10 @@ Curta a pagina no facebook, clicando [AQUI](https://www.facebook.com/gamelipe).
     </head>
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
-        <div id="links">
+        <div id="links-terror">
         <a href="fotos/terror/PRINT01.jpg"></a> <a href="fotos/terror/PRINT02.jpg"></a> <a href="fotos/terror/PRINT03.jpg"></a> <a href="fotos/terror/PRINT04.png"></a> <a href="fotos/terror/PRINT05.jpg"></a> <a href="fotos/terror/PRINT06.jpg"></a>
         </div>   
-        <div id="blueimp-image-carousel" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
+        <div id="blueimp-image-carousel-terror" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
             <h3 class="title"></h3>
             <a class="prev">‹</a>
@@ -60,9 +60,9 @@ Curta a pagina no facebook, clicando [AQUI](https://www.facebook.com/gamelipe).
         </div>        
         <script>
             blueimp.Gallery(
-                document.getElementById('links').getElementsByTagName('a'),
+                document.getElementById('links-terror').getElementsByTagName('a'),
                 {
-                    container: '#blueimp-image-carousel',
+                    container: '#blueimp-image-carousel-terror',
                     carousel: true
                 }
             );
