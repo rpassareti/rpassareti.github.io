@@ -83,7 +83,7 @@ Produzido na Unreal 4, desenvolvi a interação, shader dos objetos, aplicação
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-porquinhos">
-        <a href="fotos/tresporquinhos/foto01.png"></a> <a href="fotos/tresporquinhos/foto02.png"></a> <a href="fotos/tresporquinhos/foto03.png"></a> <a href="fotos/tresporquinhos/foto04.png"></a>
+        <a href="fotos/tresporquinhos/foto01.png"></a> <a href="fotos/tresporquinhos/foto2.png"></a> <a href="fotos/tresporquinhos/foto03.png"></a> <a href="fotos/tresporquinhos/foto04.png"></a>
         </div>   
         <div id="blueimp-image-carousel-porquinhos" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -109,5 +109,7 @@ Livro interativo em Realidade Aumentada. Produção da integração do plugin de
 [Google Play](https://play.google.com/store/apps/details?id=br.com.di.os3porquinhos&hl=en)
 
 [Youtube](https://www.youtube.com/watch?v=qImPGhAQyEI)
+
+* * *
 
 [Voltar](./)
