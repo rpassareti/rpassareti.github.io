@@ -14,4 +14,4 @@ Email: ronaldo.passareti@outlook.com
 
 Telefone: +55 11 9 7223 - 3878
 
-[Linkedin](https://br.linkedin.com/in/ronaldo-passareti-615269109)
+[LinkedIn](https://br.linkedin.com/in/ronaldo-passareti-615269109)
