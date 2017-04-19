@@ -31,7 +31,7 @@
 </html>
 Projeto produzido na empresa 8E7 Mídias Interativas, com o propósito de instigar a reação das pessoas que estão em um bote rodeado de tubarões.
 
-Foi utilizado na feira da Universidade de Ouro Preto, no programa __Hoje em Dia__, no dia 24/02/2015 e participação no programa __Balanço Geral__ da Record TV Litoral no dia 15/04/2017.
+Foi utilizado na feira da Universidade de Ouro Preto, no programa _Hoje em Dia_, no dia 24/02/2015 e participação no programa _Balanço Geral_ da Record TV Litoral no dia 15/04/2017.
 
 Produzido na Unity 3D, desenvolvi a programação dos eventos dos tubarões, inteligência básica para movimentação e troca de animações dos tubarões. Efeito de câmera, aplicação do Oculus Rift no projeto, e aplicação do Kinect (que foi retirado do produto final). 
 
