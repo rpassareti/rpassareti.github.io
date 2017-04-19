@@ -6,9 +6,9 @@ Estagiário em animação 2D para o desenho animado Nilba e os Desastronautas. T
  
 ### [](#header-4)_2014 - 8E7 Mídias Interativas_
  
-Estagiário em programação voltado para Unity 3d. Produção de 2 projetos voltados para Realidade Virtual, um para _**UFOP (Universidade de Ouro Preto)**_ com integração do Oculos Rift e Kinect, e outro para _**ABAV (Associação Brasileira de Agências de Viagens)**_ com o uso do Oculus Rift. Trabalhei durante 7 meses.
+Estagiário em programação voltado para Unity 3d. Produção de 2 projetos voltados para Realidade Virtual, um para _**UFOP (Universidade de Ouro Preto)**_ com integração do Oculos Rift e Kinect, e outro para [_**ABAV (Associação Brasileira de Agências de Viagens)**_](https://www.youtube.com/watch?v=2YUQ9cPUA-4) com o uso do Oculus Rift. Trabalhei durante 7 meses.
  
-O projeto desenvolvido para UFOP foi adaptado também para ser uma expêriencia simples com apenas o Oculus Rift, e passou no programa _**Hoje em Dia**_ na Rede Record, no dia 24/02/2015.
+O projeto desenvolvido para UFOP foi adaptado também para ser uma expêriencia simples com apenas o Oculus Rift, e passou no programa _**Hoje em Dia**_ na Rede Record, no dia 24/02/2015 e no programa _**Balanço Geral**_ da Record TV Litoral no dia 15/04/2017
 
 ### [](#header-4)_2016 - VC.2B - Atual_
 
