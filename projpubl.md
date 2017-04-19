@@ -31,13 +31,16 @@
 </html>
 Projeto produzido na empresa 8E7 Mídias Interativas, com o propósito de instigar a reação das pessoas que estão em um bote rodeado de tubarões.
 
-Foi utilizado na feira da Universidade de Ouro Preto, e depois foi usado no programa Hoje em Dia, no dia 24/02/2015. 
+Foi utilizado na feira da Universidade de Ouro Preto, no programa __Hoje em Dia__, no dia 24/02/2015 e participação no programa __Balanço Geral__ da Record TV Litoral no dia 15/04/2017.
 
 Produzido na Unity 3D, desenvolvi a programação dos eventos dos tubarões, inteligência básica para movimentação e troca de animações dos tubarões. Efeito de câmera, aplicação do Oculus Rift no projeto, e aplicação do Kinect (que foi retirado do produto final). 
 
 Universidade de ouro preto: [Youtube](https://www.youtube.com/watch?v=vobQ6OZ0gzc)
 
 Hoje em dia: [LINK](http://entretenimento.r7.com/hoje-em-dia/videos/ator-fabio-villa-verde-encara-uma-emocionante-aventura-com-o-oculos-3d-16102015)
+
+Balanço Geral: [Youtube](https://www.youtube.com/watch?v=70RNkp56d38)
+
 * * *
 
 ### [](#header-3)House System
