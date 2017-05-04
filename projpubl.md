@@ -111,7 +111,7 @@ Livro interativo em Realidade Aumentada. Produção da integração do plugin de
 
 [Google Play](https://play.google.com/store/apps/details?id=br.com.di.os3porquinhos&hl=en)
 
-[Youtube](https://www.youtube.com/watch?v=qImPGhAQyEI)
+[Youtube](https://www.youtube.com/watch?v=kJ3V0avpD-c)
 
 * * *
 
