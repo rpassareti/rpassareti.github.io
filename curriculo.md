@@ -37,7 +37,7 @@ Projeto de Realidade Aumentada para livro infantil. Desenvolvido na Unity
 
 ### [](#header-4)_Universidade Anhembi Morumbi - Design de game_
 
-* 2010 - Formado
+* 2011 - Formado
  
 Curso de Design voltado para desenvolvimento de games. Inicio do curso em 2010 e termino no final de 2014.
 
