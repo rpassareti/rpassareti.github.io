@@ -1,17 +1,17 @@
-# [](#header-1)Apresentação
+# [](#header-1)Hi!
 
-Desenvolvedor de games com 4 anos de experiência. Formado em Design de Games pela Universidade Anhembi Morumbi.
+Game Developer since 2016 with more than 5 years of experience. Bachelor's degree in Game Design by Universidade Anhembi Morumbi.
 
-Capaz de criar interface 2D e 3D usando motores gráficos como Unreal Engine e  Unity3D com domínio no visual studio com (C#). Experiência em desenvolvimento com games, Virtual Reality e Augmented Reality. Criar e programar estruturas que conectem animações e objetos de jogo e dar suporte a plugins nativos Android/iOS para Unity. Ajustes em performance para mobile (debug e profiling) em Unity como a principal plataforma para desenvolvimentos e unreal 4 para render de cenários.
+Capable to create interface using Unity Engine, with knowledge in C#. Experience developing 2D and 3D games, VR/AR projects. Capable to create and program structures to connect animation and game objects, and support native plugins for Android/iOS for Unity. Skills in performance for mobile (debug/profiling), responsive UI implementation, prototyping and Control System Version (GIT). Fast learner and very communicative.
 
 * * *
 
-# [](#header-2)Contato 
+# [](#header-2)Contact 
 
 Skype: Ronaldo Passareti
 
 Email: ronaldo.passareti@outlook.com
 
-Telefone: +55 11 9 7223 - 3878
+Phone: +55 11 9 7223 - 3878
 
 [LinkedIn](https://br.linkedin.com/in/ronaldo-passareti-615269109)
