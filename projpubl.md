@@ -315,7 +315,7 @@ In partnership with Live, advertising agency, Webcore Games developed a very fun
 
 I was in charge on implement UI interaction, reading JSON files containing informations about each series for the game, UI transitions and much more. It was avaliable only during the event
 
-[Video](https://rpassareti.github.io/videos/amazon-prime.mp4)
+[Video](https://rpassareti.github.io/video/amazon-prime.mp4)
 
 * * *
 
