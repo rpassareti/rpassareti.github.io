@@ -2,7 +2,7 @@
  
 ### [](#header-4)_8E7 Mídias Interativas_
 
-Intern in Unity programmer, produced 2 projects for Virtual Reality, for _**UFOP (Universidade de Ouro Preto)**_ with Oculus Rift and Kinect integration, and other for _**[ABAV](https://www.youtube.com/watch?v=2YUQ9cPUA-4) (Associação Brasileira de Agências de Viagens)**_ for Oculus Rift. 
+Intern in Unity programmer, produced 2 projects for Virtual Reality, for _**UFOP (Universidade de Ouro Preto)**_ with Oculus Rift and Kinect integration, and other for _**[ABAV](https://www.youtube.com/watch?v=2YUQ9cPUA-4){:target="_blank" rel="noopener"} (Associação Brasileira de Agências de Viagens)**_ for Oculus Rift. 
 
 Worked there from April to November in 2014.
 
