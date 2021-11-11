@@ -1,56 +1,54 @@
-## [](#header-2)Experiência Profissionais
-
-### [](#header-4)_2012 - 44 Toons_
- 
-Estagiário em animação 2D para o desenho animado Nilba e os Desastronautas. Trabalhei durante 4 meses.
+## [](#header-2)Professional Experience
  
 ### [](#header-4)_2014 - 8E7 Mídias Interativas_
- 
-Estagiário em programação voltado para Unity 3d. Produção de 2 projetos voltados para Realidade Virtual, um para _**UFOP (Universidade de Ouro Preto)**_ com integração do Oculos Rift e Kinect, e outro para _**[ABAV](https://www.youtube.com/watch?v=2YUQ9cPUA-4) (Associação Brasileira de Agências de Viagens)**_ com o uso do Oculus Rift. Trabalhei durante 7 meses.
- 
-O projeto desenvolvido para UFOP foi adaptado também para ser uma expêriencia simples com apenas o Oculus Rift, e passou no programa _**Hoje em Dia**_ na Rede Record, no dia 24/02/2015 e no programa _**Balanço Geral**_ da Record TV Litoral no dia 15/04/2017
 
-### [](#header-4)_2016 - VC.2B - Atual_
+Intern in Unity programmer, produced 2 projects for Virtual Reality, for _**UFOP (Universidade de Ouro Preto)**_ with Oculus Rift and Kinect integration, and other for _**[ABAV](https://www.youtube.com/watch?v=2YUQ9cPUA-4) (Associação Brasileira de Agências de Viagens)**_ for Oculus Rift. 
 
-Programador de Unity 3D com foco em C#. Projetos desenvolvidos em Augmented Reality (AR) e Virtual Reality (VR) para empresas como  Kia, Mitsubishi, Mercdes Benz, Royal Palm, Inoar, Jota Quest, Burger King, entre outras.
+Worked for 7 months.
 
+### [](#header-4)_2016 - VC.2B
+
+Unity Programmer focus on C#. Projects developed for AR and VR for internal business as Kia, Mitsubishi, Mercdes Benz, Royal Palm, Inoar, Jota Quest, Burger King, and others.
+
+Worked from 2016 to 2017
+
+### [](#header-4)_2018 - Webcore Games - Current_
+
+Unity Programmer focus on C3. Launched multiple projects since games and apps too as Timo, SESC Paulista, Storytelling, Amazon Prime Video World and many more other projects.
 
 * * *
 
 ### [](#header-4)Freelancer
 
-*   **Projeto House System - 2015**
+*   **House System Project - 2015**
 
-Passeio virtual em uma casa com o uso do Oculus Rift desenvolvido na Unreal 4.
+Virtual tour in a 3D house using Oculus Rift, developed in Unreal 4.
 
-*   **Projeto Realidade Aumentada Perfume - 2016**
+*   **Augmented Reality Natura Project - 2016**
 
-Projeto de Realidade Aumentada para marca de Perfume. Desenvolvido na Unity. Projeto cancelado pela empresa de perfume.
+AR project by Natura brand, developed in unity where scan perfume bottle for interactions. Project cancelled by Natura.
 
 *   **Os três Porquinhos RA Digital - 2016**
 
-Projeto de Realidade Aumentada para livro infantil. Desenvolvido na Unity
+AR project for a children's book. Developed in Unity
 
 * * *
 
-## [](#header-2)Formação
+## [](#header-2)Formation
 
 ### [](#header-4)_Universidade Anhembi Morumbi - Design de game_
 
 * 2011 - 2014
 
-FORMADO
+Completed
  
-Curso de Design voltado para desenvolvimento de games. Inicio do curso em 2010 e termino no final de 2014.
+Formation focus on game development. Starts in 2011 and finished in 2014.
 
-Foco em programação C# com uso da Engine Unity.
+Focus in C# using Unity Engine.
 
-Conhecimento básico em Flash (AS 3.0)
+Basic knowledge in Flash (AS 3.0)
 
-Conhecimento de funcionalidade de modelagem 3D para jogos.
-
-
-* [Currículo](curriculo.pdf)
+Basic knowledge in 3D model for games
 
 * * *
 
