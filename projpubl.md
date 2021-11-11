@@ -290,7 +290,7 @@ Although the game is available on Android and iOS sincce it is "rebranded" for e
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-amazon">
-        <a href="fotos/amazon/foto01.png"></a> <a href="fotos/amazon/foto2.png"></a> <a href="fotos/amazon/foto03.png"></a> <a href="fotos/amazon/foto04.png"></a><a href="fotos/amazon/foto05.png"></a>
+        <a href="video/amazon-prime.mp4"></a>
         </div>   
         <div id="blueimp-image-carousel-amazon" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -314,8 +314,6 @@ Although the game is available on Android and iOS sincce it is "rebranded" for e
 In partnership with Live, advertising agency, Webcore Games developed a very fun game to promote Amazon Prime Video during Comic Con Experience 2020, the Brazilian comic con that took place online. This is a "scavenger hunt" kind of game where the player has to find 10 easter eggs from 7 lists related to the Amazon Prime Video series like The Boys and American Gods.
 
 I was in charge on implement UI interaction, reading JSON files containing informations about each series for the game, UI transitions and much more. It was avaliable only during the event
-
-[Video](https://rpassareti.github.io/video/amazon-prime.mp4)
 
 * * *
 
