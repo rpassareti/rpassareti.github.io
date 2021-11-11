@@ -259,7 +259,7 @@ Storytelling is an application developed to be a shell that integrates with Twin
 
 I was the programmer in charge of implementing all UI interaction and integration of JSON files containing information about characters and chats inside the game, integration with Twine informations and much more.
 
-Although the game is available on Android and iOS, since it is "rebranded" for each new clients, it requires a login to access granted by the company.
+Although the game is available on Android and iOS, since it is "rebranded" for each new clients, it requires a login to grant access given by the company.
 
 [Google Play](https://play.google.com/store/apps/details?id=br.com.webcore.narrativegame)
 
