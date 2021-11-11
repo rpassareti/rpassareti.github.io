@@ -6,7 +6,7 @@ Intern in Unity programmer, produced 2 projects for Virtual Reality, for _**UFOP
 
 Worked for 7 months.
 
-### [](#header-4)_2016 - VC.2B
+### [](#header-4)2016 - VC.2B
 
 Unity Programmer focus on C#. Projects developed for AR and VR for internal business as Kia, Mitsubishi, Mercdes Benz, Royal Palm, Inoar, Jota Quest, Burger King, and others.
 
