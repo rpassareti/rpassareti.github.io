@@ -90,7 +90,7 @@ On this project I was in charge of the full programming using Vulforia plugin fo
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-timo">
-        <a href="fotos/timo/foto01.png"></a> <a href="fotos/timo/foto2.png"></a> <a href="fotos/timo/foto03.png"></a> <a href="fotos/timo/foto04.png"></a> <a href="fotos/timo/foto05.png"></a> <a href="fotos/timo/foto06.png"></a> <a href="fotos/timo/foto07.png"></a>
+        <a href="fotos/timo/foto01.png"></a> <a href="fotos/timo/foto02.png"></a> <a href="fotos/timo/foto03.png"></a> <a href="fotos/timo/foto04.png"></a> <a href="fotos/timo/foto05.png"></a> <a href="fotos/timo/foto06.png"></a> <a href="fotos/timo/foto07.png"></a>
         </div>   
         <div id="blueimp-image-carousel-timo" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -133,7 +133,7 @@ Timo was nominated for the Best Game for Kids at the BIG Festival 2019, and was 
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-amal">
-        <a href="fotos/amal/foto01.png"></a> <a href="fotos/amal/foto2.png"></a> <a href="fotos/amal/foto03.png"></a> <a href="fotos/amal/foto04.png"></a> <a href="fotos/amal/foto05.png"></a>
+        <a href="fotos/amal/foto01.png"></a> <a href="fotos/amal/foto02.png"></a> <a href="fotos/amal/foto03.png"></a> <a href="fotos/amal/foto04.png"></a> <a href="fotos/amal/foto05.png"></a>
         </div>   
         <div id="blueimp-image-carousel-amal" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -174,7 +174,7 @@ The printed version of the book was published in Brazil by Editora Caixote, Webc
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-nestle">
-        <a href="fotos/nestle/foto01.png"></a> <a href="fotos/nestle/foto2.png"></a> <a href="fotos/nestle/foto03.png"></a>
+        <a href="fotos/nestle/foto01.png"></a> <a href="fotos/nestle/foto02.png"></a> <a href="fotos/nestle/foto03.png"></a>
         </div>   
         <div id="blueimp-image-carousel-nestle" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -210,7 +210,7 @@ For that to be possible, I used [Open CV for Unity](https://assetstore.unity.com
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-quiqui">
-        <a href="fotos/quiqui/foto01.png"></a> <a href="fotos/quiqui/foto2.png"></a> <a href="fotos/quiqui/foto03.png"></a> <a href="fotos/quiqui/foto04.png"></a><a href="fotos/quiqui/foto05.png"></a>
+        <a href="fotos/quiqui/foto01.png"></a> <a href="fotos/quiqui/foto02.png"></a> <a href="fotos/quiqui/foto03.png"></a> <a href="fotos/quiqui/foto04.png"></a><a href="fotos/quiqui/foto05.png"></a>
         </div>   
         <div id="blueimp-image-carousel-quiqui" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
@@ -249,7 +249,7 @@ Quiqui Biscuit Puzzle Us is a game developed to promote the Brazilian cartoon "Q
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-storytelling">
-        <a href="fotos/storytelling/foto01.png"></a> <a href="fotos/storytelling/foto2.png"></a> <a href="fotos/storytelling/foto03.png"></a> <a href="fotos/storytelling/foto04.png"></a><a href="fotos/storytelling/foto05.png"></a>
+        <a href="fotos/storytelling/foto01.png"></a> <a href="fotos/storytelling/foto02.png"></a> <a href="fotos/storytelling/foto03.png"></a> <a href="fotos/storytelling/foto04.png"></a><a href="fotos/storytelling/foto05.png"></a>
         </div>   
         <div id="blueimp-image-carousel-storytelling" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
