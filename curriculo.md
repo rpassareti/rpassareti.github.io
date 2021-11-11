@@ -36,7 +36,7 @@ AR project for an interactive book for children. Developed in Unity
 
 * * *
 
-## [](#header-2)Formation
+## [](#header-2)Education
 
 ### [](#header-4)_Universidade Anhembi Morumbi - Game Design Bachelor's Degree_
 
