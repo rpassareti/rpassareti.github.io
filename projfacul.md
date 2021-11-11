@@ -30,13 +30,15 @@
         </script>
     </body>   
 </html>
-Jogo com o intuito de utilizar animações 3D e inteligencia artificial. Baseado no filme Eternal Sunshine of the Spotless Mind, o jogador deverá recolher as memorias de Clem (Clementine no filme) para não esquecer de Joel, seu namorado.
+Game created to utilize 3D animation an AI integration. Based on movive Eternal Sunshine of the Spotless Mind, the player shoul collect Clam's memories (Clementine in the movie) to not forget about Joel, her boyfriend
 
-Link para download, clique [AQUI](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar).
+I was in charge of the whole programming with my friend Daniel Stockler.
 
-Trailer do jogo, cliquei [AQUI](https://www.youtube.com/watch?v=nOR7zG8LKfY).
+[Download](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar).
 
-Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/memoryagame).
+[Youtube](https://www.youtube.com/watch?v=nOR7zG8LKfY).
+
+[Facebook](https://www.facebook.com/memoryagame).
 
 * * *
 
@@ -70,13 +72,18 @@ Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/memoryagame)
         </script>
     </body>   
 </html>
-Jogo criado como Trabalho de Conclusão de Curso, desenvolvido na Unity 3D. O jogador estará na pele de Marohirohi, correndo contra o tempo para encontrar ingrediantes e salvar seu irmão de uma maldição enviada pelos deuses.
 
-Link para download, clique [AQUI](http://www.mediafire.com/download/u6q333jyj1wjmiu/A+Lenda+de+Koru.rar), ou [AQUI](https://mega.co.nz/#!5h0zXYhY!dQpxKkqwGBOF4kJIVhLhYM1mIeArv6RKwfA4k21cazk)
+Game created as Undergraduate Thesis, developed in Unity 3D. The player controll Marohirohi, running against the time to find igredients and save his brother from a curse sended by the gods.
 
-Trailer do jogo, cliquei [AQUI](https://www.youtube.com/watch?v=A_Z55b4Bvp4).
+I was in charge of the whole programming with my friend Daniel Stockler, integrating 3D animation with Mecanin Animation System, real time implementation, and AI of events, npc's and puzzle integrations. 
 
-Curta a pagina do facebook clicando [AQUI](https://www.facebook.com/lendadekoru).
+Download:
+[Link 1](http://www.mediafire.com/download/u6q333jyj1wjmiu/A+Lenda+de+Koru.rar)
+[Link 2](https://mega.co.nz/#!5h0zXYhY!dQpxKkqwGBOF4kJIVhLhYM1mIeArv6RKwfA4k21cazk)
+
+[Youtube](https://www.youtube.com/watch?v=A_Z55b4Bvp4).
+
+[Facebook](https://www.facebook.com/lendadekoru).
 
 * * *
 
