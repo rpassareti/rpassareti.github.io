@@ -10,4 +10,4 @@ Capable to create interface using Unity Engine, with knowledge in C#. Experience
 
 Email: ronaldo.passareti@outlook.com
 
-[LinkedIn](https://br.linkedin.com/in/ronaldo-passareti-615269109)
+[LinkedIn](https://www.linkedin.com/in/ronaldo-passareti-615269109/){:target="_blank" rel="noopener"}
