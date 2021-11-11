@@ -8,10 +8,6 @@ Capable to create interface using Unity Engine, with knowledge in C#. Experience
 
 # [](#header-2)Contact 
 
-Skype: Ronaldo Passareti
-
 Email: ronaldo.passareti@outlook.com
-
-Phone: +55 11 9 7223 - 3878
 
 [LinkedIn](https://br.linkedin.com/in/ronaldo-passareti-615269109)
