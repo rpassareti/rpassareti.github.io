@@ -34,11 +34,11 @@ Game created utilizing 3D animation and AI integration. Based on the movie Etern
 
 I was in charge of the whole programming with my friend Daniel Stockler.
 
-[Download](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar).
+[Download](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar){:target="_blank" rel="noopener"}.
 
-[Youtube](https://www.youtube.com/watch?v=nOR7zG8LKfY).
+[Youtube](https://www.youtube.com/watch?v=nOR7zG8LKfY){:target="_blank" rel="noopener"}.
 
-[Facebook](https://www.facebook.com/memoryagame).
+[Facebook](https://www.facebook.com/memoryagame){:target="_blank" rel="noopener"}.
 
 * * *
 
@@ -78,12 +78,12 @@ I was in charge of the whole programming with my friend Daniel Stockler.
 I was in charge of the whole programming with my friend Daniel Stockler, integrating 3D animation with Mecanin Animation System, real time implementation, events calculated by AI, NPCs, puzzle integrations, physics and more. 
 
 Download:
-[Link 1](http://www.mediafire.com/download/u6q333jyj1wjmiu/A+Lenda+de+Koru.rar)
-[Link 2](https://mega.co.nz/#!5h0zXYhY!dQpxKkqwGBOF4kJIVhLhYM1mIeArv6RKwfA4k21cazk)
+[Link 1](http://www.mediafire.com/download/u6q333jyj1wjmiu/A+Lenda+de+Koru.rar){:target="_blank" rel="noopener"}.
+[Link 2](https://mega.co.nz/#!5h0zXYhY!dQpxKkqwGBOF4kJIVhLhYM1mIeArv6RKwfA4k21cazk){:target="_blank" rel="noopener"}.
 
-[Youtube](https://www.youtube.com/watch?v=A_Z55b4Bvp4).
+[Youtube](https://www.youtube.com/watch?v=A_Z55b4Bvp4){:target="_blank" rel="noopener"}.
 
-[Facebook](https://www.facebook.com/lendadekoru).
+[Facebook](https://www.facebook.com/lendadekoru){:target="_blank" rel="noopener"}.
 
 * * *
 
