@@ -1,4 +1,4 @@
-# [](#header-1)Faculdade
+# [](#header-1)College Projects
 
 ### [](#header-3)MEMORYA
 ![](fotos/memorya/banner.jpg)
@@ -30,7 +30,7 @@
         </script>
     </body>   
 </html>
-Game created to utilize 3D animation an AI integration. Based on movive Eternal Sunshine of the Spotless Mind, the player shoul collect Clam's memories (Clementine in the movie) to not forget about Joel, her boyfriend
+Game created utilizing 3D animation and AI integration. Based on the movie Eternal Sunshine of the Spotless Mind, the player should collect Clam's memories (Clementine in the movie) to not forget about Joel, her boyfriend.
 
 I was in charge of the whole programming with my friend Daniel Stockler.
 
@@ -73,9 +73,9 @@ I was in charge of the whole programming with my friend Daniel Stockler.
     </body>   
 </html>
 
-Game created as Undergraduate Thesis, developed in Unity 3D. The player controll Marohirohi, running against the time to find igredients and save his brother from a curse sended by the gods.
+3D game created as an Undergraduate Thesis, developed using Unity. The player control Marohirohi, running against the time to find ingredients to save his brother from a curse sent by the gods.
 
-I was in charge of the whole programming with my friend Daniel Stockler, integrating 3D animation with Mecanin Animation System, real time implementation, and AI of events, npc's and puzzle integrations. 
+I was in charge of the whole programming with my friend Daniel Stockler, integrating 3D animation with Mecanin Animation System, real time implementation, events calculated by AI, NPCs, puzzle integrations, physics and more. 
 
 Download:
 [Link 1](http://www.mediafire.com/download/u6q333jyj1wjmiu/A+Lenda+de+Koru.rar)
