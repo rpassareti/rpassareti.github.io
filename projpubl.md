@@ -249,7 +249,7 @@ Quiqui Biscuit Puzzle Us is a game developed to promote the Brazilian cartoon "Q
     <body>
         <script src="js/blueimp-gallery.min.js"></script>
         <div id="links-storytelling">
-        <a href="fotos/storytelling/foto01.png"></a> <a href="fotos/storytelling/foto02.png"></a> <a href="fotos/storytelling/foto03.png"></a> <a href="fotos/storytelling/foto04.png"></a><a href="fotos/storytelling/foto05.png"></a>
+        <a href="fotos/storytelling/foto01.png"></a> <a href="fotos/storytelling/foto02.png"></a> <a href="fotos/storytelling/foto03.png"></a>
         </div>   
         <div id="blueimp-image-carousel-storytelling" class="blueimp-gallery blueimp-gallery-carousel blueimp-gallery-display">
             <div class="slides"></div>
