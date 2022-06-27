@@ -36,7 +36,7 @@ I was in charge of the whole programming with my friend Daniel Stockler.
 
 [Download](http://www.mediafire.com/download/w6vdkwdvwpdef3c/Memorya.rar){:target="_blank" rel="noopener"}.
 
-[Youtube](https://www.youtube.com/watch?v=nOR7zG8LKfY){:target="_blank" rel="noopener"}.
+[Video](video/Memorya_Teaser.mp4){:target="_blank" rel="noopener"}.
 
 [Facebook](https://www.facebook.com/memoryagame){:target="_blank" rel="noopener"}.
 
