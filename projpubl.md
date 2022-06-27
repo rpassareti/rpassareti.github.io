@@ -273,7 +273,7 @@ In partnership with Live, an advertising agency, Webcore Games developed a very 
 
 I was in charge of implementing UI interaction, reading JSON files containing informations about each series for the game, UI transitions and much more. It was avaliable only during the event.
 
-[Video](video/Memorya_Teaser.mp4){:target="_blank" rel="noopener"}
+[Video](video/amazon-prime.mp4){:target="_blank" rel="noopener"}
 
 * * *
 
